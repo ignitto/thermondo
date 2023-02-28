@@ -29,7 +29,7 @@ dependencies {
     implementation("io.ktor:ktor-server-core:2.1.3")
     implementation("io.ktor:ktor-server-netty:2.1.3")
     implementation("io.ktor:ktor-server-content-negotiation:2.1.3")
-    implementation("io.ktor:ktor-serialization-kotlinx-json:2.1.3")
+    implementation("io.ktor:ktor-serialization-kotlinx-json:2.2.4")
 
     //security
     implementation("io.ktor:ktor-server-auth:2.1.3")
