@@ -32,7 +32,7 @@ dependencies {
     implementation("io.ktor:ktor-serialization-kotlinx-json:2.1.3")
 
     //security
-    implementation("io.ktor:ktor-server-auth:2.1.3")
+    implementation("io.ktor:ktor-server-auth:2.3.0")
 
     // Logback
     implementation("ch.qos.logback:logback-classic:1.4.4")
